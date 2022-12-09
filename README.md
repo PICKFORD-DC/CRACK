@@ -1,5 +1,5 @@
 # intalsi tools
-bash```
+```bash
 $ pkg update && pkg upgrade
 
 $ pkg install python
