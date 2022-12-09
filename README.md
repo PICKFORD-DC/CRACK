@@ -1,5 +1,5 @@
 # intalsi tools
-
+bash```
 $ pkg update && pkg upgrade
 
 $ pkg install python
@@ -18,3 +18,4 @@ $ ls
 
 $ python crack_FB.py
 
+```
