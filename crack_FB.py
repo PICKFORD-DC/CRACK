@@ -194,7 +194,7 @@ def back():
 ###>[ BANNER ]<###
 def banner():
 	basari_tamvan('=' * 40)
-	print(f"""{Z}[•] Andi-Xyz Multi Brute Force [•]
+	print(f"""{Z}[•] PICKFORD-DC Multi Brute Force [•]
 {h}  ____  __  __ ____  ______ 
 {h} |  _ \|  \/  |  _ \|  ____|
  {h}| |_) | \  / | |_) | |__   
